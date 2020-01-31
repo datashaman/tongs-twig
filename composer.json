@@ -1,7 +1,7 @@
 {
   "name": "datashaman/tongs-twig",
   "type": "library",
-  "description": "Example plugin for Tongs",
+  "description": "Twig plugin for Tongs",
   "keywords": [
     "laravel",
     "ssg",
